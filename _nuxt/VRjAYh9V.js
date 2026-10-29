@@ -1,0 +1,1 @@
+import{Kn as e,Tn as t,gt as n,in as r,nn as i,un as a}from"./GhIosGRJ.js";import{t as o}from"./BrtXjLBf.js";var s=a({__name:`[slug]`,setup(a){let s=n(),c=i(()=>String(s.params.slug));return(n,i)=>{let a=o;return t(),r(a,{category:e(c)},null,8,[`category`])}}});export{s as default};

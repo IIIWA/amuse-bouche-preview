@@ -1,0 +1,1 @@
+import{Tn as e,in as t}from"./GhIosGRJ.js";import{t as n}from"#entry";import{t as r}from"./BrtXjLBf.js";var i={};function a(n,i){let a=r;return e(),t(a)}var o=n(i,[[`render`,a]]);export{o as default};
